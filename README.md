@@ -1,2 +1,2 @@
 # git-test
-Just testing out git flow/usgae
+Just testing out git flow/usage
